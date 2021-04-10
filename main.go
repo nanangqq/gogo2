@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"gogo2/accounts"
+
+	"github.com/nanangqq/gogo2/accounts"
 )
 
 // import (
